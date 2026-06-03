@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+# Local runtime artifacts
+logs/*.md
+memory/*.jsonl
+
+# Keep placeholder files so directories exist in a fresh clone
+!logs/.gitkeep
+!memory/.gitkeep
